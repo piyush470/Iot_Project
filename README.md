@@ -1,8 +1,8 @@
-#IoT Project 2026
+# IoT Project 2026
 
 ## Project Overview
 
-SISTec IoT Application 2026 is a beginner-friendly IoT web application built using:
+This is a beginner-friendly IoT web application built using:
 
 - HTML
 - Tailwind CSS
